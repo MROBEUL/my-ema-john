@@ -1,0 +1,13 @@
+
+
+.total-cost{
+    color: rgb(85, 10, 10);
+}
+
+.btn-review{
+    background-color: rgb(241, 168, 9);
+    padding: 5px 40px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
